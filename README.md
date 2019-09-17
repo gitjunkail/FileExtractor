@@ -7,4 +7,5 @@ Build and tested on windows 10 x64 version 1903 using Visual Studio 2019 (v142) 
 
 HOW TO USE:
 
-simply drag and drop the target file into the extractor
+1. change the test case
+2. drag and drop the target file into the extractor
