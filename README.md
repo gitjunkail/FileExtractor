@@ -9,3 +9,5 @@ HOW TO USE:
 
 1. change the test case
 2. drag and drop the target file into the extractor
+
+p.s. feel free to compile and try out the demo file
